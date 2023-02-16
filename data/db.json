@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "fullName": "Sanjaykumar S R ",
+      "email": "ravisarathisanjay@gmail.com",
+      "password": "123123",
+      "mobile": 1231231231,
+      "id": 1
+    }
+  ],
+  "teacher": [
+    {
+      "fullName": "Sanjay S R ",
+      "email": "ravisaraanjay@gmail.com",
+      "password": "123123",
+      "mobile": 1231231221,
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "answer": 63,
+      "task": "seven times nine",
+      "s_id": 1,
+      "id": 1
+    },
+    {
+      "task": "seven times three",
+      "s_id": 1,
+      "id": 2,
+      "answer": 21
+    },
+    {
+      "task": "seven times three",
+      "s_id": 1,
+      "id": 3
+    }
+  ]
+}
